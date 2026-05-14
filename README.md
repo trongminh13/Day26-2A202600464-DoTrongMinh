@@ -1,4 +1,4 @@
-# Day 26 — A20-00464 Đỗ Trọng Minh
+# Day 26 — 2A202600464 Đỗ Trọng Minh
 
 ## Thông tin học viên
 
